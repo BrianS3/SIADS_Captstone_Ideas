@@ -2,7 +2,7 @@
 title: "Incentivized Health Care"
 author: "Brian Seko"
 date: "2022-11-12"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE, message=FALSE}
